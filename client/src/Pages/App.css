@@ -1,0 +1,47 @@
+.App {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(245, 245, 245);
+}
+
+.userProfile {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(245, 245, 245);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+.content {
+  background-color: rgb(245, 245, 245);
+  padding-bottom: 2.5rem;
+  height: 100%;
+}
+
+.newsFeed {
+  margin: auto;
+  width: 40%;
+  height: 100%;
+  text-align: center;
+  padding: 20px;
+  flex-grow: 1;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  background-color: #024bab;
+  color: white;
+  border-top: 1px solid rgb(250, 250, 250);
+}
