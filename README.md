@@ -8,6 +8,7 @@ This is a social media app where users can create accounts, upload short text, a
 
 ### Built With
 * [![React][React.js]][React-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 ## Future Changes:
 
