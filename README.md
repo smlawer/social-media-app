@@ -1,5 +1,6 @@
 # social-media-app
 
+<!-- PROJECT DESCRIPTION -->
 ## Project Description:
 ![App Images](SocialMediaAppImage.png)
 
@@ -8,7 +9,6 @@ This is a social media app where users can create accounts, upload short text, a
 
 ### Built With
 * [![React][React.js]][React-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 ## Future Changes:
 
@@ -19,3 +19,6 @@ This is a social media app where users can create accounts, upload short text, a
 5. Upload pictures
 6. Change profile picture
 7. More customizable personal pages
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
