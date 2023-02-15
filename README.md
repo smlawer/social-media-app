@@ -1,7 +1,7 @@
 # social-media-app
 
 ## Project Description:
-
+![App Images](SocialMediaAppImage.png)
 A social media app where users can create accounts, upload short text, and view and interact with other user's uploads.
 
 ## Future Changes:
