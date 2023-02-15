@@ -9,6 +9,7 @@ This is a social media app where users can create accounts, upload short text, a
 
 ### Built With
 * [![React][React.js]][React-url]
+* [![Express][Express.js]][Express-url]
 
 ## Future Changes:
 
@@ -23,3 +24,4 @@ This is a social media app where users can create accounts, upload short text, a
 <!-- MARKDOWN LINKS & IMAGES -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[React.js]: https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB
